@@ -1,0 +1,21 @@
+
+         Arquitectura de comunicacion sistema con el cliente-sistema por medios de virtualizacion
+                                
+                                
+ En el desarrollo de la presente arquitectura, parte de la implementacion de un Front-end que es construido a 
+ partir de un formulario hecho en HTML, donde el cliente ingresa un mensaje y el nombre que son subidos a la
+ nube. Son procesados por medio de un Backend que esta compuesto por un contenedor que distribuye la informacion 
+ a diferentes canales de comunicacion por medio de diferentes puertos(Log Service) con su respectivo puerto. 
+ Luego es registrado en una base de datos no  relacionales cuyo motor es MongoDB.
+ En la implementacion del Backend se puede apreciar que esto es virtualizado por medio de docker para obtener
+ un sistema mas optimo en el funcionamiento del contenedor, cuya funcionalidad  esta definida como modelo de
+ implementacion de imagenes que permite ejecutar multiples aplicaciones. Ademas de esto permite mayor movilidad 
+ hacia otros sistemas, en este caso se realizara la revision de todo el sistema por medio de una maquina virtual
+ en AWS, donde se obtendra mayor seguridad en el manejo de datos obtenida de los clientes o usuarios. 
+ 
+ 
+ 
+ 
+ 
+                                                                
+                                                                                                                                
