@@ -117,8 +117,8 @@ Al realizar la ejecucion de estos archivos y emitiendo un mensaje vemos el sigui
 
 ![image](https://user-images.githubusercontent.com/71477601/139509376-94ece4b0-7c60-4c93-9414-96333119b5e1.png)
 
+![image](https://user-images.githubusercontent.com/71477601/139509641-a970f92b-d4ca-47e7-b25f-d556714cceab.png)
 
-![image](https://user-images.githubusercontent.com/71477601/139509386-b08267a0-66ee-4500-b3bc-f2ba6948547f.png)
 
 
 Obtiendo un desarrollo exitoso en la respectiva ejecucion en los codigos anteriores.
