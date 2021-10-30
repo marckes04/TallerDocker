@@ -129,6 +129,11 @@ Para realizar la comunicacion del cliente se programara un front-end representad
 el cliente debera ingresar el respectivo mensaje que sera procesado en el backend transmitido en diferentes instancias y posteriormente sera almacenado en una base de datos.
 
 
+![image](https://user-images.githubusercontent.com/71477601/139519718-15a03084-9d83-4441-b011-c8bba4c8a118.png)
+
+
+
+
 
 
 
