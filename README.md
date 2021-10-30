@@ -132,6 +132,14 @@ el cliente debera ingresar el respectivo mensaje que sera procesado en el backen
 ![image](https://user-images.githubusercontent.com/71477601/139520242-ae3649a9-b339-4fc2-8896-c093a0787407.png)
 
 
+Una vez desarrollado el cliente y se hayan establecido los puertos de conexion se establecieron las respectivas imagenes en docker para cada una de las instancias como se muestra en la siguiente imagen incluido con el ide de base de datos. 
+
+![image](https://user-images.githubusercontent.com/71477601/139520320-4defd012-4fa9-4d85-afae-bd4ac1620cb3.png)
+
+
+
+
+
 
 
 
