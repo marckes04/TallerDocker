@@ -153,10 +153,7 @@ En seguida se observa las tres instancias corriendo en docker
 
 Al tener ya montadas las instancias se realizo la creacion de la maquina virtual en AWS 
 
-![image](https://user-images.githubusercontent.com/71477601/139521825-02bbf472-c82e-4773-90b4-e6e2e21e41b8.png)
-
 donde se ejecuta mi proceso de comunicacion 
-
 
 ![image](https://user-images.githubusercontent.com/71477601/139521867-2f0909e9-5c55-4d55-82fc-8887e958ae2d.png)
 
