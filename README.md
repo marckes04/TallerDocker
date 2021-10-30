@@ -132,12 +132,30 @@ el cliente debera ingresar el respectivo mensaje que sera procesado en el backen
 ![image](https://user-images.githubusercontent.com/71477601/139520242-ae3649a9-b339-4fc2-8896-c093a0787407.png)
 
 
-Una vez desarrollado el cliente y se hayan establecido los puertos de conexion se establecieron las respectivas imagenes en docker para cada una de las instancias como se muestra en la siguiente imagen incluido con el ide de base de datos. 
+Una vez desarrollado el cliente y se hayan establecido los puertos de conexion se establecieron las respectivas imagenes en docker para cada una de las instancias como se muestra en la siguiente imagen.
 
-![image](https://user-images.githubusercontent.com/71477601/139520320-4defd012-4fa9-4d85-afae-bd4ac1620cb3.png)
+![image](https://user-images.githubusercontent.com/71477601/139520340-0aa9d0e5-8289-40c8-b753-b081f2a145db.png)
+
+
+![image](https://user-images.githubusercontent.com/71477601/139520806-7fd76011-270f-41f1-9e07-bdbce369e315.png)
 
 
 
+En seguida se observa las tres instancias corriendo en docker
+
+
+![image](https://user-images.githubusercontent.com/71477601/139520927-13cd3d83-44ac-4913-b58a-0fe8fcd33ef6.png)
+
+
+![image](https://user-images.githubusercontent.com/71477601/139521250-8c72a5e4-ad4c-40b4-95a7-6dce903c5570.png)
+![image](https://user-images.githubusercontent.com/71477601/139521255-33494ce9-5d0a-437b-9f59-1a5b6f4f838a.png)
+![image](https://user-images.githubusercontent.com/71477601/139521257-0a30f185-130f-464b-ad61-c0c8170a93d0.png)
+
+Al tener ya montadas las instancias se realizo la creacion de la maquina virtual en AWS 
+
+![image](https://user-images.githubusercontent.com/71477601/139521825-02bbf472-c82e-4773-90b4-e6e2e21e41b8.png)
+
+donde se ejecuta mi proceso de comunicacion 
 
 
 
