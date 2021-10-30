@@ -158,6 +158,7 @@ Al tener ya montadas las instancias se realizo la creacion de la maquina virtual
 donde se ejecuta mi proceso de comunicacion 
 
 
+![image](https://user-images.githubusercontent.com/71477601/139521867-2f0909e9-5c55-4d55-82fc-8887e958ae2d.png)
 
 
 
