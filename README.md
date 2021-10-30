@@ -125,7 +125,13 @@ Obtiendo un desarrollo exitoso en la respectiva ejecucion en los codigos anterio
 
 
 
-Para realizar la comunicacion del cliente...
+Para realizar la comunicacion del cliente se programara un front-end representado en un formulario hecho en lenguaje HTML que se observa acontinuacion, donde 
+el cliente debera ingresar el respectivo mensaje que sera procesado en el backend transmitido en diferentes instancias y posteriormente sera almacenado en una base de datos.
+
+
+
+
+
 
 
 
